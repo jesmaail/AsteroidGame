@@ -1,0 +1,23 @@
+{
+  "name": "AsteroidGame",
+  "version": "1.0.0",
+  "description": "DeciGames Asteroid game",
+  "main": "Boot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesmaail/AsteroidGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesmaail/AsteroidGame/issues"
+  },
+  "homepage": "https://github.com/jesmaail/AsteroidGame#readme",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
